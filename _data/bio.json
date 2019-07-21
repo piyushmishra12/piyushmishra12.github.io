@@ -107,7 +107,7 @@
     },
     {
       "institution": "Cambridge School, Noida",
-      "area": "Mathematics, Science, Social Science, English",
+      "area": "Mathematics, Science, Social Science, English, French",
       "studyType": "Matriculation",
       "startDate": "2013-04-01",
       "endDate": "2015-04-01",
@@ -228,21 +228,15 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Editor In Chief",
+      "date": "2018-10-20",
+      "awarder": "IIIT-Bhubaneswar MUN",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]
