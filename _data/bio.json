@@ -6,13 +6,13 @@
     "email": "piyushmishra1999@gmail.com",
     "phone": "",
     "website": "https://piyushmishra12.github.io",
-    "summary": "I am a pre-final year student at IIIT-Bh majoring in computer science.",
+    "summary": "I am a pre-final year student at IIIT-Bh majoring in computer science. I am largely interested in domains of artificial intelligence, linguistic history and natural language processing. Outside of my professional and technical interests, I am fond of Indian classical music and percussion instruments like the Tabla. I have a senior diploma in the domain from Prayag Sangeet Samiti, Allahabad.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "IIIT, Gothapatana, PO - Malipada",
+      "postalCode": "751003",
+      "city": "Bhubaneswar",
       "countryCode": "India",
-      "region": ""
+      "region": "Odisha"
     },
     "profiles": [
       {
@@ -29,19 +29,32 @@
   },
   "interests": [
     {
-      "name": "data science",
-      "keywords": [
-        "",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "machine learning",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Linguistic Analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Economic Analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Public Speaking",
       "keywords": [
       ]
     }
@@ -62,7 +75,12 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub",
+        "Git",
+        "Kaggle",
+        "Tensorflow",
+        "Fastai",
+        "ScikitLearn",
+        "Unix"
       ]
     }
   ],
@@ -73,61 +91,138 @@
       "studyType": "B.Tech",
       "startDate": "2017-08-01",
       "endDate": "Present",
-      "gpa": "8.37",
+      "gpa": "8.75",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Cambridge School, Noida",
+      "area": "Physics, Chemistry, Mathematics, Economics, English",
+      "studyType": "Senior Secondary School Diploma",
+      "startDate": "2015-04-01",
+      "endDate": "2017-04-01",
+      "gpa": "90.4%",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Cambridge School, Noida",
+      "area": "Mathematics, Science, Social Science, English",
+      "studyType": "Matriculation",
+      "startDate": "2013-04-01",
+      "endDate": "2015-04-01",
+      "gpa": "10",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "System on Silicon Corporation",
+      "position": "R&D Engineer",
+      "website": "http://systemonsilicon.com",
+      "startDate": "2019-06-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Involved in developing algorithms for AI assisted agricultural techniques",
+        "Working on prototypes for early diagnosis of plant based diseases"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Calcutta",
+      "position": "Data Science Intern",
+      "website": "",
+      "startDate": "2019-01-07",
+      "endDate": "2019-07-15",
+      "summary": "Instrumental in developing deep neural networks for human activity recognition",
+      "highlights": [
+        ]
+    },
+    {
+      "company": "Larsen & Toubro (Electrical and Automation",
+      "position": "Intern at Data Centre",
+      "website": "http://www.larsentoubro.com/electrical-automation/",
+      "startDate": "2018-12-03",
+      "endDate": "2019-01-02",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+        "Assisted in handling data by writing simple queries",
+        "Prepared a basic prototype to detect suspicious customers of smart metres in the city of Indore, India"
+        ]
+    },
+    {
+      "company": "OpenGenus Foundation",
+      "position": "Algorithm and Data Structure Developer Intern",
+      "website": "http://www.opengenus.org",
+      "startDate": "2018-09-02",
+      "endDate": "2019-12-02",
+      "summary": "Worked on developing algorithms in the field of machine learning and deep learning",
+      "highlights": [
+        ]
+    },
+    {
+      "company": "Indian Institute of Management, Bangalore",
+      "position": "Campus Ambassador",
+      "website": "",
+      "startDate": "2018-08-01",
+      "endDate": "2019-09-01",
+      "summary": "Represented IIM Bangalore at IIIT-Bh for the anual business festival, Vistas'18",
+      "highlights": [
+        ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Kaggle Days Delhi",
+      "website": "https://kaggledays.com",
+      "position": "Volunteer",
+      "startDate": "2019-07-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Aiding the organisers to carry out smooth and efficient conferences for Kaggle days in Delhi",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "PyJaipur",
+      "website": "https://pyjaipur.github.io",
+      "position": "Mentor for Machine Learning, Summer of Algorithms",
+      "startDate": "2019-07-15",
+      "endDate": "2019-08-30",
+      "summary": "Mentoring beginners and enthusiasts to get started with machine learning",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "NJack, IIT Patna",
+      "website": "https://pyjaipur.github.io",
+      "position": "Mentor, Winter of Code",
+      "startDate": "2018-12-01",
+      "endDate": "2019-01-06",
+      "summary": "Mentored contributors for my project Fake News Detector",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Programming Society, IIIT-Bh",
+      "website": "https://p-society.herokuapp.com",
+      "position": "Core Member",
+      "startDate": "2018-08-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "A co-operative campus society based on peer-teaching",
+        "Helped me gain knowledge on open source and git"
+      ]
+    },
+    {
+      "organization": "News and Publication Society, IIIT-Bh",
+      "website": "",
+      "position": "Core Member",
+      "startDate": "2018-08-15",
+      "endDate": "2019-05-30",
+      "summary": "Primarily involved with organising regularly scheduled, free of cost debate sessions",
+      "highlights": [
       ]
     }
   ],
