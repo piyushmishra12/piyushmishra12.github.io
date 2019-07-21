@@ -1,52 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Piyush Mishra",
+    "label": "R&D Engineer",
+    "picture": "https://techfolios.github.io/template/images/Photo.jpeg",
+    "email": "piyushmishra1999@gmail.com",
+    "phone": "",
+    "website": "https://piyushmishra12.github.io",
+    "summary": "I am a pre-final year student at IIIT-Bh majoring in computer science.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "India",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "piyushmishra12",
+        "url": "http://github.com/piyushmishra12"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "piyush-mishra-b96084159",
+        "url": "http://linkedin.com/in/piyush-mishra-b96084159"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data science",
       "keywords": [
-        "Arduino",
+        "",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "machine learning",
       "keywords": [
       ]
     },
@@ -63,10 +53,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Assembly"
       ]
     },
     {
@@ -74,21 +62,18 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "International Institute of Information Technology, Bhubaneswar",
+      "area": "Computer Science (expected 2021)",
+      "studyType": "B.Tech",
+      "startDate": "2017-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "8.37",
       "courses": [
       ]
     }
