@@ -1,6 +1,4 @@
-<!-- Used by theme-essays-builtin-1 -->
-
-<div class="card">
+<a class="card" href="{% if page.essayurl %}{{ page.essayurl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
   <div class="content">
     <span class="header">{{ include.page.title }}</span>
     <div class="meta">
@@ -8,7 +6,7 @@
     </div>
 
     <div class="description">
-      {{ include.page.content | markdownify | strip_html | truncatewords: 40 }}
+      {{ include.page.content | strip_html | truncatewords: 40 }}
     </div>
   </div>
 
@@ -20,5 +18,4 @@
     </div>
   </div>
 
-  <a class="ui bottom attached button" href="{{ site.baseurl}}{{ include.page.url }}">Read More</a>
-</div>
+</a>
