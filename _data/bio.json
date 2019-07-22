@@ -135,8 +135,9 @@
       "website": "",
       "startDate": "2019-01-07",
       "endDate": "2019-07-15",
-      "summary": "Instrumental in developing deep neural networks for human activity recognition",
+      "summary": "",
       "highlights": [
+        "Instrumental in developing deep neural networks for human activity recognition"
         ]
     },
     {
@@ -157,8 +158,9 @@
       "website": "http://www.opengenus.org",
       "startDate": "2018-09-02",
       "endDate": "2019-12-02",
-      "summary": "Worked on developing algorithms in the field of machine learning and deep learning",
+      "summary": "",
       "highlights": [
+        "Worked on developing algorithms in the field of machine learning and deep learning"
         ]
     },
     {
@@ -167,8 +169,9 @@
       "website": "",
       "startDate": "2018-08-01",
       "endDate": "2019-09-01",
-      "summary": "Represented IIM Bangalore at IIIT-Bh for the anual business festival, Vistas'18",
+      "summary": "",
       "highlights": [
+        "Represented IIM Bangalore at IIIT-Bh for the anual business festival, Vistas'18"
         ]
     }
   ],
@@ -179,8 +182,9 @@
       "position": "Volunteer",
       "startDate": "2019-07-01",
       "endDate": "Present",
-      "summary": "Aiding the organisers to carry out smooth and efficient conferences for Kaggle days in Delhi",
+      "summary": "",
       "highlights": [
+        "Aiding the organisers to carry out smooth and efficient conferences for Kaggle days in Delhi"
       ]
     },
     {
@@ -189,8 +193,9 @@
       "position": "Mentor for Machine Learning, Summer of Algorithms",
       "startDate": "2019-07-15",
       "endDate": "2019-08-30",
-      "summary": "Mentoring beginners and enthusiasts to get started with machine learning",
+      "summary": "",
       "highlights": [
+        "Mentoring beginners and enthusiasts to get started with machine learning"
       ]
     },
     {
@@ -199,8 +204,9 @@
       "position": "Mentor, Winter of Code",
       "startDate": "2018-12-01",
       "endDate": "2019-01-06",
-      "summary": "Mentored contributors for my project Fake News Detector",
+      "summary": "",
       "highlights": [
+        "Mentored contributors for my project Fake News Detector"
       ]
     },
     {
@@ -221,8 +227,9 @@
       "position": "Core Member",
       "startDate": "2018-08-15",
       "endDate": "2019-05-30",
-      "summary": "Primarily involved with organising regularly scheduled, free of cost debate sessions",
+      "summary": "",
       "highlights": [
+        "Primarily involved with organising regularly scheduled, free of cost debate sessions"
       ]
     }
   ],
@@ -231,6 +238,12 @@
       "title": "Editor In Chief",
       "date": "2018-10-20",
       "awarder": "IIIT-Bhubaneswar MUN",
+      "summary": ""
+    },
+    {
+      "title": "Adudicator",
+      "date": "2018-03-09",
+      "awarder": "SOA Parliamentary Debate",
       "summary": ""
     }
   ]
