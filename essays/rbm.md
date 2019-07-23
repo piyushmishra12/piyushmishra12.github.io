@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: What are Restricted Boltzmann Machines?
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-10
+date: 2018-09-27
 labels:
   - RBM
   - Neural Networks
