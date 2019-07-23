@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Perceptron, the building block of modern AI
 # All dates must be YYYY-MM-DD format!
-date: 2018-09
+date: 2018-09-10
 labels:
   - Perceptron
   - Neuron
