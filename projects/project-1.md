@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/snake.png
 title: SnakeAI
-permalink: projects/micromouse
+permalink: https://github.com/piyushmishra12/SnakeAI
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-30
 labels:
