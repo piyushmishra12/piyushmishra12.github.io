@@ -5,7 +5,7 @@ image: images/movie.png
 title: Movie Recommender
 permalink: projects/movie-recommender
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-2
+date: 2018-10-02
 labels:
   - RBM
   - Autoencoders
