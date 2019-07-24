@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/music.png
+image: images/music1.png
 title: Music Generator
 permalink: projects/music-generator
 # All dates must be YYYY-MM-DD format!
