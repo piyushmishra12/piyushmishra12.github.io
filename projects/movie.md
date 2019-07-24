@@ -10,6 +10,6 @@ labels:
   - RBM
   - Autoencoders
   - Recommender System
-summary: Predicts movies by learning from movielens dataset using Restricted Boltzmann machines and Autoencoders
+summary: Predicts movies by learning from movielens dataset using RBMs and Autoencoders
 projecturl: https://github.com/piyushmishra12/Movie-Recommender
 ---
