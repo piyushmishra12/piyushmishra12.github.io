@@ -10,5 +10,5 @@ labels:
   - Computer Vision
   - AgriTech
 summary: Diagnosing Esca, Black rot and leaf blight in grapevines using pictures of the diseased leaves.
-projecturl: https://github.com/piyushmishra12/Context-Generation
+projecturl: https://grape-disease-diagnosis.onrender.com
 ---
