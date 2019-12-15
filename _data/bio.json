@@ -118,6 +118,17 @@
   ],
   "work": [
     {
+      "company": "Indian Institute of Technology, Patna",
+      "position": "Research Intern",
+      "website": "https://www.iitp.ac.in",
+      "startDate": "2019-09-26",
+      "endDate": "2019-11-17",
+      "summary": "",
+      "highlights": [
+        "Was involved in developing new computational techniques for gene clustering using state-of-the-art machine learning concepts.",
+      ]
+    },
+    {
       "company": "System on Silicon Corporation",
       "position": "R&D Engineer",
       "website": "http://systemonsilicon.com",
@@ -125,7 +136,7 @@
       "endDate": "2019-08-10",
       "summary": "",
       "highlights": [
-        "Involved in developing algorithms for AI assisted agricultural techniques",
+        "Was involved in developing algorithms for AI assisted agricultural techniques",
         "Working on prototypes for early diagnosis of plant based diseases"
       ]
     },
