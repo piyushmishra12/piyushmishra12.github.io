@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: images/grape.png
-title: Disease Diagnosis in Grapes
+title: AddColour
 permalink: projects/grape
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-10
 labels:
-  - Computer Vision
-  - AgriTech
-summary: Diagnosing Esca, Black rot and leaf blight in grapevines using pictures of the diseased leaves.
-projecturl: https://grape-disease-diagnosis.onrender.com
+  - GAN
+summary: A model that learns how to colour greyscale images using a slightly modified GAN
+projecturl: https://github.com/piyushmishra12/AddColour
 ---
