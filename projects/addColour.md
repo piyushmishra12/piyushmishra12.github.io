@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/grape.png
+image: images/ac.png
 title: AddColour
 permalink: projects/grape
 # All dates must be YYYY-MM-DD format!
