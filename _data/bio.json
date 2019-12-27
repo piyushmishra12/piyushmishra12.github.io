@@ -188,6 +188,17 @@
   ],
   "volunteer": [
     {
+      "organization": "Society for Data Science (S4DS)",
+      "website": "https://www.s4ds.org",
+      "position": "Member",
+      "startDate": "2019-05-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "It is a coveted society dedicated towards research, development and advancement in the field of data science and analytics. Being a part of this society has helped me gain more knowledge and further develop my interest in the domain."
+      ]
+    },
+    {
       "organization": "Kaggle Days Delhi",
       "website": "https://kaggledays.com",
       "position": "Volunteer",
