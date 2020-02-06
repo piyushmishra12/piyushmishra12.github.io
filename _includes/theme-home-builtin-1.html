@@ -2,6 +2,7 @@
 
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
+{% assign publication_pages = site.pages | where: "type", "publication" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
@@ -39,10 +40,13 @@
       </div>
       <div class="center aligned content">
         <a href="{{ site.baseurl}}/projects/">
-          <button class="ui basic button">Projects ({{ num_projects }})</button>
+          <button class="ui basic button">Projects </button>
         </a>
         <a href="{{ site.baseurl}}/essays/">
-          <button class="ui basic button">Reveries ({{ num_essays }})</button>
+          <button class="ui basic button">Reveries </button>
+        </a>
+        <a href="{{ site.baseurl}}/publications/">
+          <button class="ui basic button">Publications</button>
         </a>
         <a href="{{ site.baseurl}}/bio/">
           <button class="ui basic button">{{ site.bio-page-label }}</button>
