@@ -1,12 +1,11 @@
 ---
 layout: publication
 type: publication
-title: Intuitive Understanding of Artifical Neural Networks
+title: Human Activity Recognition using Deep Neural Network
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-10
-labels:
-  - Neural Networks
-essayurl: https://iq.opengenus.org/artificial-neural-networks/
+date: 2019-09-26
+labels: IEEE
+essayurl: https://ieeexplore.ieee.org/abstract/document/8971476
 ---
 
-An Artificial Neural Network (henceforth ANN) is a form of computing system that vaguely resembles the biological nervous system. It is composed of very many neurons that are centres of computation and learn by a sort of hit and trial method over the course of many epochs. One can correctly say that an ANN and a perceptron function in an identical fashion. Much rather, the ANN is actually derived from the perceptron to render a more accurate output.
+The smartphone has become quite ubiquitous and an indispensable part of our lives in the modern day. It has many sensors which capture several minute details pertaining to our activities. So, it is but inevitable that human desire creeps in to augment and improve one's own actions by studying such behaviour captured through the instrumentalities of the smart-phone. In this context, study of data on human activities captured through accelerometer and gyroscope get primal significance. In this paper, we have attempted to apply machine learning and deep learning techniques on a publicly available dataset. Initially, classification algorithms like K-Nearest Neighbours and Random Forest are applied. The classification accuracies observed are 90.46% and 92.97% respectively. Using benchmark feature selection and dimensionality reduction techniques does not improve the model accuracies to a large extent - with …
