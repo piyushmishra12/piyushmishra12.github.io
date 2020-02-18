@@ -4,7 +4,9 @@ type: publication
 title: Human Activity Recognition using Deep Neural Network
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-26
-labels: IEEE
+labels:
+  - IEEE
+  - 5th International Conference on Data Science and Engineering 2019
 essayurl: https://ieeexplore.ieee.org/abstract/document/8971476
 ---
 
