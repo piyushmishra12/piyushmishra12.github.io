@@ -3,7 +3,7 @@ layout: publication
 type: publication
 title: Disease Diagnosis in Grapevines using Residual Convolutional Neural Networks
 # All dates must be YYYY-MM-DD format!
-date: 2019-04-01
+date: 2020-04-01
 labels:
   - VITIS
   - Grapevine Research
