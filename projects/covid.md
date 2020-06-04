@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ac.png
+image: images/covid.png
 title: Covid19 Language Model
 permalink: projects/covid19languagemodel
 # All dates must be YYYY-MM-DD format!
