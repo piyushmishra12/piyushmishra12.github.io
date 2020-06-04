@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ac.png
+image: images/garj.png
 title: Get a Real Job
 permalink: projects/getarealjob
 # All dates must be YYYY-MM-DD format!
