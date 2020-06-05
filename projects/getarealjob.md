@@ -18,7 +18,7 @@ During the destitution that was the period of last few months for me, I came acr
 ## Data Handling
 
 <p align="center">
-  <img width="600" height="350" src="images/class_imbalance.png">
+  <img width="600" height="350" src="/images/class_imbalance.png">
 </p>
 
 The data has 18000 job descriptions out of which 800 are fake. So, clearly there is a class imbalance. Now working with such a class imbalance can pose a threat to the validation of the model. Since a significantly large number of job postings are, as a matter of fact, real, the model can always predict that the test instance is real and basically et away with it. There are [different manœuvres](https://www.researchgate.net/publication/288228469_Classification_with_class_imbalance_problem_A_review) for it, however I chose to opt for three: use Cohen's Kappa as a metric in lieu of simple percentage based accuracy, use F1 score in lieu of simple percentage based accuracy, and a little sub-sampling never hurts.
@@ -36,7 +36,7 @@ The logical first step of handling any task that involves natural language is to
 The language model also comes pretrained with the entirety of the text from Wikipedia, which helps it recognise the basic nuances of the general English language. Training it on this dataset will further converge its capability to recognise the specific nuances of the fashion in which text is written for job postings. Now, there are some decisions to be made:
 
 <p align="center">
-  <img width="460" height="300" src="images/garj_lm.png">
+  <img width="460" height="300" src="/images/garj_lm.png">
 </p>
 
 On observing the behaviour between the learning rate and the loss function, it is seen that an optimum loss is achieved right before its explosion, at just under the value 1. This is a dangerous situation to be in. Since if the learning rate somehow reaches 1, the loss is going to explode. So, I choose a maximum learning rate of 0.1, this ensures that loss will not explode while also keeping it fairly optimum.
@@ -52,7 +52,7 @@ Training for the language model is done for 5 generations which takes roughly 20
 As mentioned above, sub-sampling is done where 1400 real postings and all the fake postings are selected. Mind you that the data is still not balanced, but it is much less imbalanced. And for the metrics, I use the macro averaged F1 score and the quadratic weighted Cohen's kappa.
 
 <p align="center">
-  <img width="460" height="300" src="images/garj_cl.png">
+  <img width="460" height="300" src="/images/garj_cl.png">
 </p>
 
 Things are easier now that the learning rate for this classification follows a more-or-less smooth downward trajectory against the loss function. The model is trained for 10 generations which takes well under 2 minutes (1 minute 40 seconds to be precise) and finally the training loss comes out to be 0.269, validation loss 0.187, F1 score 0.9254 and Cohen's kappa 0.855.
