@@ -51,4 +51,8 @@ Training for the language model is done for 5 generations which takes roughly 20
 
 As mentioned above, sub-sampling is done where 1400 real postings and all the fake postings are selected. Mind you that the data is still not balanced, but it is much less imbalanced. And for the metrics, I use the macro averaged F1 score and the quadratic weighted Cohen's kappa.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/piyushmishra12/piyushmishra12.github.io/blob/master/images/garj_cl.png">
+</p>
+
 Things are easier now that the learning rate for this classification follows a more-or-less smooth downward trajectory against the loss function. The model is trained for 10 generations which takes well under 2 minutes (1 minute 40 seconds to be precise) and finally the training loss comes out to be 0.269, validation loss 0.187, F1 score 0.9254 and Cohen's kappa 0.855.
