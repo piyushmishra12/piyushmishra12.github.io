@@ -56,3 +56,7 @@ As mentioned above, sub-sampling is done where 1400 real postings and all the fa
 </p>
 
 Things are easier now that the learning rate for this classification follows a more-or-less smooth downward trajectory against the loss function. The model is trained for 10 generations which takes well under 2 minutes (1 minute 40 seconds to be precise) and finally the training loss comes out to be 0.269, validation loss 0.187, F1 score 0.9254 and Cohen's kappa 0.855.
+
+<p align="center">
+  <img width="300" height="300" src="/images/garj_cm.png">
+</p>
