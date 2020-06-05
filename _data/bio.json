@@ -118,6 +118,17 @@
   ],
   "work": [
     {
+      "company": "Compliy",
+      "position": "Artificial Intelligence Intern",
+      "website": "https://compliy.com",
+      "startDate": "2020-05-18",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Currently working for efficient information retrieval using techniques of AI.",
+      ]
+    },
+    {
       "company": "Indian Institute of Technology, Patna",
       "position": "Research Intern",
       "website": "https://www.iitp.ac.in",
