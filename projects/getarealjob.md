@@ -60,3 +60,5 @@ Things are easier now that the learning rate for this classification follows a m
 <p align="center">
   <img width="300" height="300" src="/images/garj_cm.png">
 </p>
+
+Check out my [Kaggle kernel](https://www.kaggle.com/piyushmishra1999/get-a-real-job) for detailed code and analysis.
