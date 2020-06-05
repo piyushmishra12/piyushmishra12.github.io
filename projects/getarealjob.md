@@ -17,6 +17,10 @@ During the destitution that was the period of last few months for me, I came acr
 
 ## Data Handling
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/piyushmishra12/piyushmishra12.github.io/blob/master/images/class_imbalance.png">
+</p>
+
 The data has 18000 job descriptions out of which 800 are fake. So, clearly there is a class imbalance. Now working with such a class imbalance can pose a threat to the validation of the model. Since a significantly large number of job postings are, as a matter of fact, real, the model can always predict that the test instance is real and basically et away with it. There are [different manœuvres](https://www.researchgate.net/publication/288228469_Classification_with_class_imbalance_problem_A_review) for it, however I chose to opt for three: use Cohen's Kappa as a metric in lieu of simple percentage based accuracy, use F1 score in lieu of simple percentage based accuracy, and a little sub-sampling never hurts.
 
 * Cohen's Kappa helps because it basically takes into consideration the possibility of agreement by chance. It gives the value of agreement between two raters who each classify a number of items or instances into separate classes or groups. So, it is a good method to check disproportionate advantage of one class over another.
