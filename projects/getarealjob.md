@@ -35,6 +35,10 @@ The logical first step of handling any task that involves natural language is to
 
 The language model also comes pretrained with the entirety of the text from Wikipedia, which helps it recognise the basic nuances of the general English language. Training it on this dataset will further converge its capability to recognise the specific nuances of the fashion in which text is written for job postings. Now, there are some decisions to be made:
 
+<p align="center">
+  <img width="460" height="300" src="images/garj_lm.png">
+</p>
+
 On observing the behaviour between the learning rate and the loss function, it is seen that an optimum loss is achieved right before its explosion, at just under the value 1. This is a dangerous situation to be in. Since if the learning rate somehow reaches 1, the loss is going to explode. So, I choose a maximum learning rate of 0.1, this ensures that loss will not explode while also keeping it fairly optimum.
 
 I also use [Mixed Precision Training](https://arxiv.org/abs/1710.03740) which helps in decreasing the training time. Mixed precision is the use of both 16-bit and 32-bit floating-point types in a model during training to make it run faster and use less memory. By keeping certain parts of the model in the 32-bit types for numeric stability, the model will have a lower step time and train equally as well in terms of the evaluation metrics such as accuracy.
