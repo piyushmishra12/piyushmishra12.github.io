@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Piyush Mishra",
-    "label": "Data Science Practitioner, Researcher, Writer",
+    "label": "Data Science Practitioner, Self-Taught Researcher, Writer",
     "picture": "https://piyushmishra12.github.io/images/piyush.png",
     "email": "piyushmishra1999@gmail.com",
     "phone": "",
     "website": "https://piyushmishra12.github.io",
-    "summary": "I am a data science/machine learning practitioner primarily focusing on natural language processing and linguistic history. However, I also dabble in computer vision, reinforcement learning and related domains. I have had the opportunity to work alongside some reputed institutions like University of Calcutta, Indian Institute of Technology Patna, Larsen & Toubro Limited etc. Presently, I am pursuing a degree in B.Tech in computer science from International Institute of Information Technology, Bhubaneswar. Besides my professional interests, I also have a senior diploma in classical Tabla percussion (Delhi school) and Hindustani classical music (Gwalior school) from the reputed Prayag Sangeet Samiti, Allahabad.",
+    "summary": "I am an internet-educated machine learning practitioner primarily focusing on natural language processing and linguistic history. However, I also dabble in computer vision, reinforcement learning and related domains. I have had the opportunity to work alongside some reputed researchers from institutions like University of Calcutta, Indian Institute of Technology Patna, Larsen & Toubro Limited etc. Presently, I am pursuing a degree in B.Tech in Computer Science from International Institute of Information Technology, Bhubaneswar. Besides my professional interests, I also have a senior diploma in classical Tabla percussion (Delhi school) and Hindustani classical music (Gwalior school) from the reputed Prayag Sangeet Samiti, Allahabad.",
     "location": {
       "address": "IIIT, Gothapatana, PO - Malipada",
       "postalCode": "751003",
@@ -29,10 +29,15 @@
   },
   "interests": [
     {
-      "name": "Data Science",
+      "name": "Linguistics",
       "keywords": [
       ]
     },
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    }
     {
       "name": "Machine Learning",
       "keywords": [
@@ -44,12 +49,12 @@
       ]
     },
     {
-      "name": "Linguistic Analysis",
+      "name": "Statistics",
       "keywords": [
       ]
     },
     {
-      "name": "Economic Analysis",
+      "name": "Pattern Recognition",
       "keywords": [
       ]
     },
@@ -67,7 +72,9 @@
         "C",
         "C++",
         "Python",
-        "Assembly"
+        "Assembly",
+        "Java",
+        "Swift for Tensorflow"
       ]
     },
     {
@@ -125,7 +132,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Currently working for efficient information retrieval using techniques of AI.",
+        "I am working closely with the Research team for devising novel strategies of information retrieval and text extraction with specific focus towards text classification.",
       ]
     },
     {
@@ -136,30 +143,29 @@
       "endDate": "2019-11-17",
       "summary": "",
       "highlights": [
-        "Was involved in developing new computational techniques for gene clustering using state-of-the-art machine learning concepts.",
+        "I was involved in developing computations for gene clustering, seeking to achieve better computation than in the existing strategies in the domain. I largely devised a multi-modal strategy to work on incomplete data of different views of gene data.",
       ]
     },
     {
       "company": "System on Silicon Corporation",
-      "position": "R&D Engineer",
+      "position": "AI Research Intern",
       "website": "http://systemonsilicon.com",
       "startDate": "2019-06-10",
       "endDate": "2019-08-10",
       "summary": "",
       "highlights": [
-        "Was involved in developing algorithms for AI assisted agricultural techniques",
-        "Working on prototypes for early diagnosis of plant based diseases"
+        "I worked heavily to develop artificially intelligent means for sustainable agriculture which helped in bridging the gap between farmers and technology. It included research and development in areas of agriculture and cropping patterns combined with novel techniques of computation in deep learning."
       ]
     },
     {
       "company": "University of Calcutta",
-      "position": "Data Science Intern",
+      "position": "Data Science Research Intern",
       "website": "",
       "startDate": "2019-01-07",
       "endDate": "2019-07-15",
       "summary": "",
       "highlights": [
-        "Instrumental in developing deep neural networks for human activity recognition"
+        "I worked on a comparative study on human activity recognition using deep neural network approaches and sought to simplify the previously used techniques to remove unnecessary complexities. The corresponding research paper was selected to be presented at the 5th International Conference on Data Science and Engineering, 2019."
         ]
     },
     {
@@ -170,8 +176,7 @@
       "endDate": "2019-01-02",
       "summary": "",
       "highlights": [
-        "Assisted in handling data by writing simple queries",
-        "Prepared a basic prototype to detect suspicious customers of smart metres in the city of Indore, India"
+        "I assisted in two power distribution projects for L&T Electrical and Automation; IPDS (client MPPKVVCL) and R-APDRP (client CESU). For the R-APDRP project, I wrote scripts and ran some basic queries for handling data in SQL and for the IPDS project I made a basic prototype for finding out the suspicious customers of the smart meters in the city of Indore."
         ]
     },
     {
@@ -182,7 +187,7 @@
       "endDate": "2019-12-02",
       "summary": "",
       "highlights": [
-        "Worked on developing algorithms in the field of machine learning and deep learning"
+        "I worked on developing algorithms in the field of machine learning and deep learning. It involved writing about the algorithms as well as contributing codes for the algorithms."
         ]
     },
     {
@@ -193,11 +198,22 @@
       "endDate": "2019-09-01",
       "summary": "",
       "highlights": [
-        "Represented IIM Bangalore at IIIT-Bh for the anual business festival, Vistas'18"
+        "I represented IIM Bangalore at IIIT-Bh for the anual business festival, Vistas'18"
         ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "Rhodes Artificial Intelligence Lab (RAIL)",
+      "website": "https://www.s4ds.org",
+      "position": "Member",
+      "startDate": "2020-06-11",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Born from the simple idea that artificial intelligence can be a force for good, the Rhodes Artificial Intelligence Lab (RAIL) applies machine learning to some of the world's most difficult social challenges. It creates state-of-the-art Artificial Intelligence to diagnose diseases, reduce emissions, improve homeless shelters, and even translate ancient languages."
+      ]
+    }
     {
       "organization": "Society for Data Science (S4DS)",
       "website": "https://www.s4ds.org",
@@ -217,7 +233,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Aiding the organisers to carry out smooth and efficient conferences for Kaggle days in Delhi"
+        "Kaggle Days Delhi is a branch of the Kaggle Days initiative functioning in the city of Delhi and the National Capital Territory of India. It helps enculcate a culture of learning with and for AI by bringing data scientists, students and researchers together to interact and create disruptive ideas and implementations."
       ]
     },
     {
@@ -228,7 +244,7 @@
       "endDate": "2019-08-30",
       "summary": "",
       "highlights": [
-        "Mentoring beginners and enthusiasts to get started with machine learning"
+        "Thanks to this initiative, I had the chance to introduce concepts of machine learning and AI to complete beginners and enthusiasts to make them confident and competent in the workforce."
       ]
     },
     {
@@ -239,7 +255,7 @@
       "endDate": "2019-01-06",
       "summary": "",
       "highlights": [
-        "Mentored contributors for my project Fake News Detector"
+        "I had the chance to mentor open source contributors for my project Fake News Detector"
       ]
     },
     {
@@ -250,8 +266,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "A co-operative campus society based on peer-teaching",
-        "Helped me gain knowledge on open source and git"
+        "It is a co-operative campus society based on peer-teaching which helped me gain knowledge on open source and git"
       ]
     },
     {
@@ -262,7 +277,7 @@
       "endDate": "2019-05-30",
       "summary": "",
       "highlights": [
-        "Primarily involved with organising regularly scheduled, free of cost debate sessions"
+        "I was primarily involved with organising regularly scheduled, free of cost debate sessions"
       ]
     }
   ],
