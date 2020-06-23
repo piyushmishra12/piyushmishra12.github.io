@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "kaggle",
+        "username": "piyushmishra1999",
+        "url": "www.kaggle.com/piyushmishra1999"
+      },
+      {
         "network": "github",
         "username": "piyushmishra12",
         "url": "http://github.com/piyushmishra12"
