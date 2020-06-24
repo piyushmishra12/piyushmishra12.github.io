@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/movie.png
+image: images/connect4.png
 title: Connect4 Player
 permalink: projects/connect4-player
 # All dates must be YYYY-MM-DD format!
