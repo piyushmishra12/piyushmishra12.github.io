@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Banach-Tarski Paradox: Making Something out of Nothing
+title: Banach-Tarski Paradox, Making Something out of Nothing
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-06
 labels:
