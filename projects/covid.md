@@ -7,7 +7,7 @@ permalink: projects/covid19languagemodel
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-10
 labels:
-  - Langguage Model
+  - Language Model
   - Covid-19
   - NLP
 summary: A language model based on the available literature for the ongoing Covid-19 pandemic.
