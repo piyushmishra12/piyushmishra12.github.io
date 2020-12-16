@@ -125,6 +125,17 @@
   ],
   "work": [
     {
+      "company": "Center for Security and Emerging Technology, Georgetown University",
+      "position": "Tech-Security Trend Forecaster",
+      "website": "",
+      "startDate": "2020-08-18",
+      "endDate": "2020-11-26",
+      "summary": "",
+      "highlights": [
+        "I participated in answering research questions for AI ethics and policymaking",
+      ]
+    },
+    {
       "company": "Compliy",
       "position": "Artificial Intelligence Intern",
       "website": "https://compliy.com",
@@ -132,7 +143,7 @@
       "endDate": "2020-06-26",
       "summary": "",
       "highlights": [
-        "I am working closely with the Research team for devising novel strategies of information retrieval and text extraction with specific focus towards text classification.",
+        "I worked closely with the Research team for devising novel strategies of information retrieval and text extraction with specific focus towards text classification.",
       ]
     },
     {
