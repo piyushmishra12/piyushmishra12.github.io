@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ac.png
+image: images/hindi.png
 title: ShayarAI
 permalink: projects/shayar
 # All dates must be YYYY-MM-DD format!
