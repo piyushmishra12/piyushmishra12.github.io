@@ -6,6 +6,7 @@ title: Why Particle Tracking is Magnificent
 date: 2020-12-09
 labels:
   - Computational Biology
+  - Paper Explanation
 essayurl: https://www.compris.xyz/post/particle-tracking
 ---
 
