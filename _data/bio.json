@@ -8,11 +8,11 @@
     "website": "https://piyushmishra12.github.io",
     "summary": "I am an internet-educated machine learning practitioner primarily focusing on natural language processing and linguistic history. However, I also dabble in computer vision, reinforcement learning and related domains. I have had the opportunity to work alongside some reputed researchers from institutions like University of Calcutta, Indian Institute of Technology Patna, Larsen & Toubro Limited etc. Presently, I am pursuing a degree in B.Tech in Computer Science from International Institute of Information Technology, Bhubaneswar. Besides my professional interests, I also have a senior diploma in classical Tabla percussion (Delhi school) and Hindustani classical music (Gwalior school) from the reputed Prayag Sangeet Samiti, Allahabad.",
     "location": {
-      "address": "IIIT, Gothapatana, PO - Malipada",
-      "postalCode": "751003",
-      "city": "Bhubaneswar",
-      "countryCode": "India",
-      "region": "Odisha"
+      "address":,
+      "postalCode":,
+      "city":,
+      "countryCode":,
+      "region":
     },
     "profiles": [
       {
@@ -25,6 +25,11 @@
         "username": "piyush-mishra-b96084159",
         "url": "http://linkedin.com/in/piyush-mishra-b96084159"
       }
+      {
+        "network": "twitter",
+        "username": "Compris12",
+        "url": "https://twitter.com/Compris12"
+      },
     ]
   },
   "interests": [
