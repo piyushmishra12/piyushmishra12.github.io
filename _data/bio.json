@@ -93,12 +93,22 @@
   ],
   "education": [
     {
+      "institution": "Turing Centre for Living Systems, Aix-Marseille University",
+      "area": "Computational and Mathematical Biology (Bioinformatics)",
+      "studyType": "MS",
+      "startDate": "2021-09-07",
+      "endDate": "Present",
+      "gpa": "8.25",
+      "courses": [
+      ]
+    },
+    {
       "institution": "International Institute of Information Technology, Bhubaneswar",
-      "area": "Computer Science (expected 2021)",
+      "area": "Computer Science",
       "studyType": "B.Tech",
       "startDate": "2017-08-01",
-      "endDate": "Present",
-      "gpa": "8.75",
+      "endDate": "2021-05-01",
+      "gpa": "8.51",
       "courses": [
       ]
     },
