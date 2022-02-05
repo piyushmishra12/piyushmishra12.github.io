@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Piyush Mishra",
-    "label": "Data Science Practitioner, Self-Taught Researcher, Writer",
+    "label": "Researcher",
     "picture": "https://piyushmishra12.github.io/images/piyush.png",
     "email": "piyushmishra1999@gmail.com",
     "phone": "",
     "website": "https://piyushmishra12.github.io",
-    "summary": "I am an internet-educated machine learning practitioner primarily focusing on natural language processing and linguistic history. However, I also dabble in computer vision, reinforcement learning and related domains. I have had the opportunity to work alongside some reputed researchers from institutions like University of Calcutta, Indian Institute of Technology Patna, Larsen & Toubro Limited etc. Presently, I am pursuing a degree in B.Tech in Computer Science from International Institute of Information Technology, Bhubaneswar. Besides my professional interests, I also have a senior diploma in classical Tabla percussion (Delhi school) and Hindustani classical music (Gwalior school) from the reputed Prayag Sangeet Samiti, Allahabad.",
+    "summary": "I am a machine learning practitioner, currently pursuing my interests in computational and mathematical biology at the Turing Centre for Living Systems, Aix-Marseille University. I have keen interests in computational biology, bioinformatics, natural language processing and linguistic history. For now, I am testing the waters in different research domains that pique my interest.",
     "location": {
       "address":,
       "postalCode":,
@@ -33,11 +33,6 @@
     ]
   },
   "interests": [
-    {
-      "name": "Linguistics",
-      "keywords": [
-      ]
-    },
     {
       "name": "Data Science",
       "keywords": [
