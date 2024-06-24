@@ -32,6 +32,18 @@
       }
     ]
   },
+   "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Assembly",
+        "Java",
+        "Swift for Tensorflow"
+      ]
     },
     {
       "name": "Toolsets/OS",
