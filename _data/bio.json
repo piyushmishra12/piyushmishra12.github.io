@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Piyush Mishra",
-    "label": "Researcher",
+    "label": "PhD Student",
     "picture": "https://piyushmishra12.github.io/images/piyush.png",
     "email": "piyush.mishra@univ-amu.fr",
     "phone": "",
@@ -10,9 +10,9 @@
     "location": {
       "address":,
       "postalCode":,
-      "city":,
+      "city": "Marseille",
       "countryCode":,
-      "region":
+      "region": "France"
     },
     "profiles": [
       {
