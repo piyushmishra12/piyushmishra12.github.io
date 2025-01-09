@@ -7,7 +7,7 @@
 {% for profile in site.data.bio.basics.profiles %}
   <a href="{{ profile.url }}">
     {% if profile.network | downcase == "bluesky" %}
-      <img src="images/Photo.jpeg" alt="Bluesky" class="big bluesky icon icon-color">
+      <img src="images/cotton-square.png" alt="Bluesky" class="big bluesky icon icon-color">
     {% else %}
       <i class="big {{ profile.network | downcase }} icon icon-color"></i>
     {% endif %}
