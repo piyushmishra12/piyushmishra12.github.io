@@ -6,7 +6,7 @@
 {% for profile in site.data.bio.basics.profiles %}
   <a href="{{ profile.url }}">
     {% if profile.network == "bluesky" %}
-      <i class="big butterfly icon icon-color"></i>
+      <i class="big globe icon icon-color"></i>
     {% else %}
       <i class="big {{ profile.network | downcase }} icon icon-color"></i>
     {% endif %}
