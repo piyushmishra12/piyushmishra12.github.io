@@ -1,13 +1,8 @@
-<!-- Used by theme-home-builtin-1,2,3 -->
-<!-- <head>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-</head> -->
 
 {% for profile in site.data.bio.basics.profiles %}
    <a href="{{ profile.url }}"> <i class="big {{ profile.network | downcase }} icon icon-color"></i> </a>
 {% endfor %}
 
-<!-- <a href="{{https://bsky.app/profile/peeyoushh.bsky.social}}"> <i class="big fa-brands fa-bluesky icon icon-color"></i> </a> -->
 
 {% if site.data.bio.basics.email %}
   <a href="mailto:{{ site.data.bio.basics.email }}"> <i class="big mail square icon icon-color"></i> </a>
