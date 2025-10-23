@@ -1,7 +1,18 @@
 
-{% for profile in site.data.bio.basics.profiles %}
+<!-- {% for profile in site.data.bio.basics.profiles %}
    <a href="{{ profile.url }}"> <i class="big {{ profile.network | downcase }} icon icon-color"></i> </a>
+{% endfor %} -->
+
+{% for profile in site.data.bio.basics.profiles %}
+  <a href="{{ profile.url }}">
+    {% if profile.network == "bluesky" %}
+      <i class="big globe icon icon-color"></i>
+    {% else %}
+      <i class="big {{ profile.network | downcase }} icon icon-color"></i>
+    {% endif %}
+  </a>
 {% endfor %}
+
 
 
 {% if site.data.bio.basics.email %}
