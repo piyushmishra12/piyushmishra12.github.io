@@ -6,13 +6,12 @@
 {% for profile in site.data.bio.basics.profiles %}
   <a href="{{ profile.url }}">
     {% if profile.network == "bluesky" %}
-         <svg xmlns="http://www.w3.org/2000/svg" class="big icon icon-color">"/></svg>
-     {% else %}
+      <i class="big butterfly icon icon-color"></i>
+    {% else %}
       <i class="big {{ profile.network | downcase }} icon icon-color"></i>
     {% endif %}
   </a>
 {% endfor %}
-
 
 
 {% if site.data.bio.basics.email %}
